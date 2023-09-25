@@ -1,0 +1,32 @@
+C:\murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.AssemblyReference.cache
+C:\murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.frmAddCustomer.resources
+C:\murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.frmCustomers.resources
+C:\murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.GenerateResource.cache
+C:\murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.AssemblyInfoInputs.cache
+C:\murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.AssemblyInfo.cs
+C:\murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.CoreCompileInputs.cache
+D:\Seneca College\Books\Murach C#\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.AssemblyReference.cache
+D:\Seneca College\Books\Murach C#\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.frmAddCustomer.resources
+D:\Seneca College\Books\Murach C#\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.frmCustomers.resources
+D:\Seneca College\Books\Murach C#\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.GenerateResource.cache
+D:\Seneca College\Books\Murach C#\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seneca College\Books\Murach C#\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.AssemblyInfoInputs.cache
+D:\Seneca College\Books\Murach C#\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.AssemblyInfo.cs
+D:\Seneca College\Books\Murach C#\Student Download\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.CoreCompileInputs.cache
+E:\Seneca stuff\7 - PRG650\CustomerMaintenance\CustomerMaintenance\bin\Debug\netcoreapp3.1\CustomerMaintenance.exe
+E:\Seneca stuff\7 - PRG650\CustomerMaintenance\CustomerMaintenance\bin\Debug\netcoreapp3.1\CustomerMaintenance.deps.json
+E:\Seneca stuff\7 - PRG650\CustomerMaintenance\CustomerMaintenance\bin\Debug\netcoreapp3.1\CustomerMaintenance.runtimeconfig.json
+E:\Seneca stuff\7 - PRG650\CustomerMaintenance\CustomerMaintenance\bin\Debug\netcoreapp3.1\CustomerMaintenance.runtimeconfig.dev.json
+E:\Seneca stuff\7 - PRG650\CustomerMaintenance\CustomerMaintenance\bin\Debug\netcoreapp3.1\CustomerMaintenance.dll
+E:\Seneca stuff\7 - PRG650\CustomerMaintenance\CustomerMaintenance\bin\Debug\netcoreapp3.1\CustomerMaintenance.pdb
+E:\Seneca stuff\7 - PRG650\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.AssemblyReference.cache
+E:\Seneca stuff\7 - PRG650\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.frmAddCustomer.resources
+E:\Seneca stuff\7 - PRG650\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.frmCustomers.resources
+E:\Seneca stuff\7 - PRG650\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.GenerateResource.cache
+E:\Seneca stuff\7 - PRG650\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Seneca stuff\7 - PRG650\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.AssemblyInfoInputs.cache
+E:\Seneca stuff\7 - PRG650\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.AssemblyInfo.cs
+E:\Seneca stuff\7 - PRG650\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.CoreCompileInputs.cache
+E:\Seneca stuff\7 - PRG650\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.dll
+E:\Seneca stuff\7 - PRG650\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.pdb
+E:\Seneca stuff\7 - PRG650\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.genruntimeconfig.cache
